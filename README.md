@@ -100,6 +100,8 @@ Below is a list of hosted API models that support multiple parallel function cal
 
 [Marvin](https://github.com/PrefectHQ/marvin) (Apache-2.0) is a lightweight toolkit for building reliable natural language interfaces with self-documenting tools for tasks like entity extraction and multi-modal support.
 
+[MindForge](https://github.com/opok-ops/MindForge) (MIT) is a local-first, federated P2P memory layer for AI agents with AES-256-GCM encryption, 4-tier Ebbinghaus consolidation, 6-way hybrid search, and an MCP server.
+
 [Outlines](https://github.com/outlines-dev/outlines) (Apache-2.0) facilitates structured text generation using multiple models, Jinja templating, and support for regex patterns, JSON schemas, Pydantic models, and context-free grammars.
 
 [Pydantic](https://github.com/pydantic/pydantic) (MIT) simplifies working with data structures and JSON through data model definition, validation, JSON schema generation, and seamless parsing and serialization.
